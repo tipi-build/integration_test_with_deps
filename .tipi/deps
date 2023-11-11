@@ -1,5 +1,3 @@
 {
-    "tipi-build/integration-test-project-deep": {
-        "@": "main"
-    }
+    "file://./dependencies/integration-test-project-deep": { }
 }

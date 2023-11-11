@@ -1,0 +1,4 @@
+[submodule "dependencies/integration-test-project-deep"]
+	path = dependencies/integration-test-project-deep
+	url = ../integration-test-project-deep
+	branch = main
